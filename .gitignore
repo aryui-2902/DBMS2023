@@ -1,0 +1,12 @@
+target/
+**/target/
+bin/
+.idea/
+*.iml
+.env
+.env.*
+*.pem
+*.jks
+*.p12
+*.exe
+.DS_Store
